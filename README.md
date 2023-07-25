@@ -20,8 +20,8 @@ Make sure you have the following installed:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/BalkanID-University/balkanid-fte-hiring-task-vit-vellore-2023-whoisaditya.git
-cd balkanid-fte-hiring-task-vit-vellore-2023-whoisaditya
+git clone https://github.com/whoiaditya/golang-task-management-system.git
+cd golang-task-management-system
 ```
 
 2. Set up the environment variables:
