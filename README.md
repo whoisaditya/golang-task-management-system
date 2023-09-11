@@ -18,7 +18,7 @@ Make sure you have the following installed:
 ## Getting Started
 
 1. Clone the repository:
-
+****
 ```bash
 git clone https://github.com/whoiaditya/golang-task-management-system.git
 cd golang-task-management-system

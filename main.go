@@ -21,7 +21,7 @@ func main() {
 	r := gin.Default()
 	r.GET("/", func(c *gin.Context) {
 		c.JSON(200, gin.H{
-			"message": "Welcome to BalkanID Engineering Task - Aditya Mitra",
+			"message": "Welcome to Golang Task Management System- Aditya Mitra",
 		})
 	})
 
